@@ -1,9 +1,10 @@
-upload image function
+Upload image function
 
-distributions：ubuntu
-虛擬環境：virtualenv
-框架：Django1.8
-部署：pythonanywhere
+ubuntu14.04
+virtualenv
+python2.7
+django1.8
+Deploy：pythonanywhere
 
 http://upload.pythonanywhere.com/upload/
 選擇圖檔後上傳。
