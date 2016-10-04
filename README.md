@@ -7,8 +7,8 @@
 `django1.8`
 `pythonanywhere`
 
-http://upload.pythonanywhere.com/upload/
+http://upload.pythonanywhere.com/upload/  
 選擇圖檔後上傳。
 
-http://upload.pythonanywhere.com/show/
+http://upload.pythonanywhere.com/show/  
 可檢視已上傳的圖檔。
